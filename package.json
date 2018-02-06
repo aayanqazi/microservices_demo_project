@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Arsalan Sabir",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "http-status": "^1.0.1",
+    "morgan": "^1.9.0",
+    "supertest": "^3.0.0"
+  }
 }
